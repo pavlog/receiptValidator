@@ -1,2 +1,2 @@
-require './cgi/app'
+require './app'
 run Sinatra::Application
